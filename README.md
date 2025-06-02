@@ -50,6 +50,7 @@ Join the **official Discord** to submit your sounds and follow development:
 
 Custom Disk = **your vibe**, **your world**, **your rules**.  
 Drop the beat, launch Minecraft, and vibe out like never before.
+![ChatGPT Image 1 juin 2025, 10_17_18](https://github.com/user-attachments/assets/bca64134-3342-47f1-802d-9e4a2668b511)
 
 ---
 
@@ -98,6 +99,7 @@ Rejoins le **serveur Discord officiel** pour soumettre tes musiques et suivre le
 👉 https://discord.gg/WmC6NWZF9f
 
 *Le mod est uniquement dispo via Discord pour le moment. Rejoins-nous pour l’avoir !*
+![ChatGPT Image 1 juin 2025, 10_17_18](https://github.com/user-attachments/assets/84cac81f-76cb-4776-a43b-ff893e22d8aa)
 
 ---
 
