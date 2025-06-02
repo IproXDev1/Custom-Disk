@@ -23,8 +23,7 @@ Wanna blast some S3RL, Dr. Dre, Vengeur Masqué, or your own homemade beats whil
 ⚠️ **Still in development.** Some stuff is missing or experimental. We're working on it like caffeinated monkeys to give you a clean, smooth, badass experience.
 
 ### Planned updates:
-- Full survival integration (craftable discs, chest loot, etc.)  
-- Support for both Fabric and Forge  
+- Full survival integration (craftable discs, chest loot, etc.)    
 - GUI to make adding tracks even easier for lazy legends  
 
 ---
@@ -79,8 +78,7 @@ Tu veux écouter du S3RL, du Dr. Dre, du Vengeur Masqué ou carrément tes propr
 ⚠️ **Toujours en cours de développement.** Certaines fonctions sont manquantes ou en test. On bosse dessus comme des singes sous Red Bull pour rendre tout ça propre et stylé.
 
 ### À venir :
-- Intégration complète en survie (craft des disques, loot dans les coffres, etc.)  
-- Support de Fabric ET Forge  
+- Intégration complète en survie (craft des disques, loot dans les coffres, etc.)   
 - Interface graphique pour ajouter tes sons encore plus facilement  
 
 ---
