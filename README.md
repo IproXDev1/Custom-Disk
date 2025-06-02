@@ -99,7 +99,6 @@ Rejoins le **serveur Discord officiel** pour soumettre tes musiques et suivre le
 👉 https://discord.gg/WmC6NWZF9f
 
 *Le mod est uniquement dispo via Discord pour le moment. Rejoins-nous pour l’avoir !*
-![ChatGPT Image 1 juin 2025, 10_17_18](https://github.com/user-attachments/assets/84cac81f-76cb-4776-a43b-ff893e22d8aa)
 
 ---
 
@@ -107,3 +106,4 @@ Rejoins le **serveur Discord officiel** pour soumettre tes musiques et suivre le
 
 Custom Disk = **tes sons**, **ton monde**, **tes règles**.  
 Balance tes beats, lance Minecraft, et profite à fond.
+![ChatGPT Image 1 juin 2025, 10_17_18](https://github.com/user-attachments/assets/dcfb54bd-7f4b-4f66-94c4-6f04546736d3)
